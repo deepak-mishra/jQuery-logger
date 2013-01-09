@@ -3,7 +3,7 @@
 ## Installation
 Copy below code and put in your jQuery based project 
 
-##<code><script src="https://raw.github.com/deepak-mishra/dee/master/logger.js"></script></code>
+##<script src="https://raw.github.com/deepak-mishra/dee/master/logger.js"></script>
 
 ## Usage
 $('#test').click( function(){  
